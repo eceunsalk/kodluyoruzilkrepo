@@ -27,6 +27,8 @@ code .
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açın.
 
+[Bana patika.dev adresimden ulaşın!](https://app.patika.dev/ecuns)
+
 ## **License**
 
 [MIT](https://choosealicense.com/licenses/mit/)
